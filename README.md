@@ -83,6 +83,8 @@ Spectre evaluates code against robust regular expression signatures optimized fo
 6. Inspect and remediate any flagged vulnerabilities using the direct jump buttons.
 
 ---
+## 📺 Demo / Proof of Concept
+<img width="1280" height="1024" alt="Captura de Tela (3656)" src="https://github.com/user-attachments/assets/a45cf7f4-75e8-4b43-bd60-06f16eb34213" />
 
 ## 👨‍💻 Author
 
